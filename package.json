@@ -1,0 +1,22 @@
+{
+  "name": "fantasy-checker",
+  "version": "1.0.0",
+  "description": "fantasy-checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbusche/fantasy-checker.git"
+  },
+  "author": "https://github.com/mrbusche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbusche/fantasy-checker/issues"
+  },
+  "homepage": "https://github.com/mrbusche/fantasy-checker#readme",
+  "devDependencies": {
+    "cypress": "8.3.1"
+  }
+}
