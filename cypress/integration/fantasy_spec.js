@@ -5,7 +5,7 @@ describe('find fantasy adds and drops', () => {
         cy.get('.Table__TBODY').eq(1).should(($div) => {
             const text = $div.text();
 
-            expect(text).to.eq('2022202027241964164103316512210101012430649220131185101131002141207782');
+            expect(text).to.eq('2022302027242174174114317515310101014430649220131195101131002152207782');
         })
     })
 
